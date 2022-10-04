@@ -1,3 +1,4 @@
+@CreateArticle
 Feature: Create Article POST
 
   As QA Automation

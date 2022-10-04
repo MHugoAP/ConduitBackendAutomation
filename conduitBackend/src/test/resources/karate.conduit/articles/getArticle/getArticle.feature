@@ -1,3 +1,4 @@
+@GetArticle
 Feature: Get Article GET
 
   As QA Automation

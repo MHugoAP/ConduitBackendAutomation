@@ -12,4 +12,4 @@ Feature: Get Article GET
     Given header Authorization = 'Bearer '+ token
     Given path 'articles', slug
     When method DELETE
-    Then status 200
+    Then status 204
